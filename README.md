@@ -37,20 +37,16 @@ More details: https://reactnative.dev/docs/0.61/getting-started
 1. Clone the project running on your terminal
 ```$ git clone https://github.com/lucasrbezerra/react-app-fichas.git```
 
-2. Execute
-
-```$ npm install```
+2. Execute: ```$ npm install``
 
 ## Running the tests
 
-* Android: 
-``` $ npx react-native run-android ```
+* Android: ``` $ npx react-native run-android ``
 
 ## Built With
 
 * [Realm](https://realm.io/docs/javascript/latest) - The database used
 * [Yarn](https://yarnpkg.com/package/react-native) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 
 ## Authors
