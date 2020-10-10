@@ -8,13 +8,11 @@ import {
 
 export function ResponsiveHeigth(){
     const Height = Dimensions.get('screen').height;
-    //console.log("HEI:", Height);
     return Height;
 };
 
 export function ResponsiveWidth(){
     const Width =  Dimensions.get('screen').width;
-    //console.log("WID:", Width);
     return Width;
 };
 

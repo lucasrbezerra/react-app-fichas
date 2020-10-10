@@ -43,7 +43,6 @@ export function StackClient(){
 
     const data = realm.objects('Client').sorted('name');
     
-    //console.log("DATA: ", data[0].products[0].datePay);
     setClients(data);
 
     setFiltered(data);
