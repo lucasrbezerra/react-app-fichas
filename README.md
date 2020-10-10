@@ -5,7 +5,7 @@ and their respective information and purchases.
 
 ## Presentations
 
-# Screens
+# Lists
 
 ![screen-presentations](https://github.com/lucasrbezerra/react-app-fichas/blob/main/assets/img/screen-presetation.png?raw=true)
 
