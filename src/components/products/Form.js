@@ -27,7 +27,6 @@ function ProdID(){
 
     seed = d + m + y + h + min + sec + milsec;
     
-    console.log("Entrou aq");
     return parseInt(seed);
 };
 
