@@ -5,13 +5,19 @@ and their respective information and purchases.
 
 ## Presentations
 
-#Screens
+# Screens
+
+![screen-presentations](https://github.com/lucasrbezerra/react-app-fichas/blob/main/assets/img/screen-presetation.png?raw=true)
 
 
+# Registers
+
+![register-presentations](https://github.com/lucasrbezerra/react-app-fichas/blob/main/assets/img/register-presetation.png)
 
 
-#Registers and Details
+# Details and Collected
 
+![collected-presentations](https://github.com/lucasrbezerra/react-app-fichas/blob/main/assets/img/collected-presentation.png)
 
 
 ## Getting Started
