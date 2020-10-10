@@ -7,19 +7,12 @@ and their respective information and purchases.
 
 #Screens
 
-file:///C:/Users/Admin/Desktop/AppFichas/Apresentação App/2 AllUsers.png
-file:///C:/Users/Admin/Desktop/AppFichas/Apresentação App/6 DiaryClient.png
-file:///C:/Users/Admin/Desktop/AppFichas/Apresentação App/8 CollectedClient.png
-file:///C:/Users/Admin/Desktop/AppFichas/Apresentação App/9 Calculator.png
+
 
 
 #Registers and Details
 
-file:///C:/Users/Admin/Desktop/AppFichas/Apresentação App/3 CadastroClient.png
-file:///C:/Users/Admin/Desktop/AppFichas/Apresentação App/4 CadastroProd.png
-file:///C:/Users/Admin/Desktop/AppFichas/Apresentação App/5 Client Cadastrado.png
-file:///C:/Users/Admin/Desktop/AppFichas/Apresentação App/6 DiaryClient.png
-file:///C:/Users/Admin/Desktop/AppFichas/Apresentação App/7 Cobrar Client.png
+
 
 ## Getting Started
 
