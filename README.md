@@ -70,7 +70,7 @@ More details: https://reactnative.dev/docs/0.61/getting-started
 
 ## Authors
 
-* **Lucas Ribeiro Bezerra** - *Initial work* - [lucasrbezerra](https://github.com/lucasrbezerra)
+* **Lucas Ribeiro Bezerra** - [lucasrbezerra](https://github.com/lucasrbezerra)
 
 
 ## License
